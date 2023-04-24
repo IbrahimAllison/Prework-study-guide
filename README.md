@@ -20,8 +20,6 @@ It solves the problem of creating a web application to solving real-world proble
 - What did you learn?
 I learned the basics of HTML, CSS, Gits, GitHub, JavaScript, Readme, and Deployment.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 ## Installation
 
 N/A
